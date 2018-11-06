@@ -1,0 +1,4 @@
+1.) Helm is used for management and streamline kubernetes application.
+.To manage releases of helm packages
+.To maintain applications as kubernets chart
+. To use software that is packaged as kubernets charts.
